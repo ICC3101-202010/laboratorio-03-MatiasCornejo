@@ -21,7 +21,7 @@ namespace lab_3MatiasCornejo
         {
             base.Greet();
 
-            Console.WriteLine("jjxjcjc" + Cant);
+            Console.WriteLine( "y llevare"+Cant+" "+Compras);
 
         }
 

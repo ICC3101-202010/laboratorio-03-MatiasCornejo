@@ -81,6 +81,7 @@ namespace lab_3MatiasCornejo
 
                 if (x == 1) //opcion crear producto
                 {
+                    
                     Console.WriteLine("Indique nombre producto:");
                     string nombre = Console.ReadLine();
                     listanombrepructos.Add(nombre);
@@ -111,12 +112,14 @@ namespace lab_3MatiasCornejo
                     Console.WriteLine("9)Finalizar programa");
 
                     Console.WriteLine("");
-                    x = int.Parse(Console.ReadLine());
-
-
-
-
                 }
+
+
+
+
+
+
+                
 
 
 
