@@ -223,13 +223,35 @@ namespace lab_3MatiasCornejo
 
 
 
+
+                }
+
+
+                if (x == 4)
+
+                {
+                    foreach (string letra in listanombrepructos)
+                        Console.WriteLine(letra);
+
+                    Console.WriteLine("1) SI");
+                    Console.WriteLine("5)Volver al menu principal");
+                    Console.WriteLine("9)Finalizar proframa");
+
+                    Console.WriteLine("");
+                    x = int.Parse(Console.ReadLine());
+
+                }
+                if (x==9)
+                {
+                    Console.ReadKey();
                 }
 
 
 
 
-
             }
+            
+
 
             Employee E2 = new Employee("martin", 200000, "18.434.541-k", "Reponedor", "1-22");
             Employee E3 = new Employee("macarena", 200000, "12.321.235-1", "Reponedor", "1-22");
@@ -317,7 +339,7 @@ namespace lab_3MatiasCornejo
 
 
 
-            foreach (string letra in listaempleados)
+            foreach (string letra in listanombrepructos)
             {
                 Console.WriteLine(letra);
 

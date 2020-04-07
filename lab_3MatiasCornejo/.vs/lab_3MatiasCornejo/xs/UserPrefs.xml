@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{A2EAD9AC-1AF2-4567-B107-65EFCBF2320B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="lab_3MatiasCornejo/.gitignore">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab_3MatiasCornejo/Employee.cs">
     <Files>
       <File FileName="lab_3MatiasCornejo/Program.cs" Line="222" Column="1" />
-      <File FileName="lab_3MatiasCornejo/Person.cs" Line="1" Column="1" />
+      <File FileName="lab_3MatiasCornejo/Person.cs" />
       <File FileName="lab_3MatiasCornejo/Employee.cs" Line="40" Column="1" />
-      <File FileName="lab_3MatiasCornejo/Cliente.cs" Line="38" Column="1" />
-      <File FileName="lab_3MatiasCornejo/Product.cs" Line="43" Column="1" />
-      <File FileName="lab_3MatiasCornejo/.gitignore" Line="1" Column="1" />
+      <File FileName="lab_3MatiasCornejo/Cliente.cs" />
+      <File FileName="lab_3MatiasCornejo/Product.cs" />
+      <File FileName="lab_3MatiasCornejo/.gitignore" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="lab_3MatiasCornejo" expanded="True">
             <Node name="lab_3MatiasCornejo" expanded="True">
-              <Node name=".gitignore" selected="True" />
+              <Node name="Employee.cs" selected="True" />
             </Node>
           </Node>
         </State>
